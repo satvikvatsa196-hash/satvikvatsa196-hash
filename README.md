@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4c1d95,100:0891b2&height=180&text=Satvik%20Vatsa&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%C2%B7%20GenAI%20%2F%20RAG%20Systems&descAlignY=75&descSize=16&descColor=94a3b8" /> <br/> <a href="https://readme-typing-svg.herokuapp.com"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+don't+drop+messages;RAG+pipelines+with+tenant+isolation%2C+not+demos;Currently+placement-prep-mode%3A+backend-first" /> </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4c1d95,100:0891b2&height=180&text=Satvik%20Vatsa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20GenAI%2FRAG%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18" />
+
 
 <a href="https://www.linkedin.com/in/satvik-vatsa-64031a287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/satvikvatsa196-hash"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>

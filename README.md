@@ -27,10 +27,6 @@ Focus_areas:
   - Applied GenAI / RAG Systems (LangChain, LangGraph, ChromaDB)
   - Event-Driven & Async Architectures (RabbitMQ, Kafka, DLQs)
 
-Currently:
-  - Sharpening backend fundamentals through hands-on systems: agentic RAG, tenant isolation, async messaging
-  - Prepping for campus placement season with a portfolio that leans backend-first, not just ML-flavored
-
 Fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 ```
 
@@ -102,7 +98,6 @@ Fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 
  *"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*
 
-⭐ **If any of these projects are useful to you, a star would mean a lot!** ⭐
 
 </div>
 

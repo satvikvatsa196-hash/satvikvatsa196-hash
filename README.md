@@ -28,9 +28,9 @@ focus_areas:
 
 currently:
   - Sharpening backend fundamentals through hands-on systems: agentic RAG, tenant isolation, async messaging
-  - Shipping RAG pipelines, an agentic support system, and messaging infrastructure
+  - Prepping for campus placement season with a portfolio that leans backend-first, not just ML-flavored
 
-fun_fact: "My commit history is basically a changelog of me arguing with Redis."
+fun_fact: "I don't fear bugs. I fear silently dropped messages in a queue with no DLQ."
 ```
 
 ---
@@ -44,8 +44,6 @@ fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 | 📄 **[DocuMind AI](https://github.com/satvikvatsa196-hash/documind-ai)** | Production RAG document Q&A app — recursive chunking, MiniLM embeddings, and ChromaDB retrieval with source-page citations, plus a tenant-isolation layer preventing cross-user vector search leakage | `Django` `DRF` `React` `LangChain` `ChromaDB` `OpenAI/Gemini/Groq` `JWT` `Docker` |
 | 🔔 **[Notification Service](https://github.com/satvikvatsa196-hash/notification-service)** | Multi-tenant Email/SMS/Push notification backend — Strategy-pattern provider routing, an async RabbitMQ pipeline with a Dead Letter Queue, and Redis-backed idempotency to prevent duplicate sends | `Kotlin` `Spring Boot` `PostgreSQL` `RabbitMQ` `Redis` `Docker` |
 | 🔗 **[LinkForge](https://github.com/satvikvatsa196-hash/linkforge)** | Distributed URL shortener with caching and duplicate-prevention logic, built on a Kotlin/Spring Boot backend | `Kotlin` `Spring Boot` `PostgreSQL` `Redis` `Docker` |
-
-> Links use my current best guess at repo names — swap in the exact URLs where they differ.
 
 ---
 
@@ -95,10 +93,10 @@ fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=satvikvatsa196-hash&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikvatsa196-hash&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&langs_count=8" height="165" />
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satvikvatsa196-hash&theme=github-dark-blue&background=0d1117&border=30363d&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
+<img src="./profile/streak.svg" />
 
 </div>
 
@@ -107,7 +105,7 @@ fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satvikvatsa196-hash&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="./profile/trophy.svg" />
 </div>
 
 ---
@@ -121,7 +119,7 @@ fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 <a href="https://leetcode.com/u/Satvik-196/"><img src="https://img.shields.io/badge/-Satvik--196-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.codechef.com/users/smart_fair_99"><img src="https://img.shields.io/badge/-smart_fair_99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-> *"Ship the RAG pipeline first, argue about the chunk size forever."*
+> *"Premature optimization is the root of all evil — but so is skipping the rate limiter."*
 
 ⭐ **If any of these projects are useful to you, a star would mean a lot!** ⭐
 

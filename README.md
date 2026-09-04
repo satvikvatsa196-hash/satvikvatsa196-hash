@@ -18,20 +18,20 @@
 ### 📌 About Me
 
 ```yaml
-name: Satvik Vatsa
-location: IIIT Bhopal, India
-education: B.Tech in Information Technology (2023 - 2027) | CGPA: 7.59/10
+Name: Satvik Vatsa
+Location: IIIT Bhopal, India
+Education: B.Tech in Information Technology (2023 - 2027) | CGPA: 7.59/10
 
-focus_areas:
+Focus_areas:
   - Backend & Distributed Systems (FastAPI, Django, Spring Boot, PostgreSQL, Redis)
   - Applied GenAI / RAG Systems (LangChain, LangGraph, ChromaDB)
   - Event-Driven & Async Architectures (RabbitMQ, Kafka, DLQs)
 
-currently:
+Currently:
   - Sharpening backend fundamentals through hands-on systems: agentic RAG, tenant isolation, async messaging
   - Prepping for campus placement season with a portfolio that leans backend-first, not just ML-flavored
 
-fun_fact: "I don't fear bugs. I fear silently dropped messages in a queue with no DLQ."
+Fun_fact: "My commit history is basically a changelog of me arguing with Redis."
 ```
 
 ---
@@ -100,7 +100,7 @@ fun_fact: "I don't fear bugs. I fear silently dropped messages in a queue with n
 <a href="https://leetcode.com/u/Satvik-196/"><img src="https://img.shields.io/badge/-Satvik--196-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.codechef.com/users/smart_fair_99"><img src="https://img.shields.io/badge/-smart_fair_99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-> *"Premature optimization is the root of all evil — but so is skipping the rate limiter."*
+ *"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*
 
 ⭐ **If any of these projects are useful to you, a star would mean a lot!** ⭐
 

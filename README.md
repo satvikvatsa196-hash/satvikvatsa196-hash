@@ -102,11 +102,7 @@ Fun_fact: "My commit history is basically a changelog of me arguing with Redis."
   <img src="https://github-readme-streak-stats.herokuapp.com?user=satvikvatsa196-hash&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvikvatsa196-hash&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
 
 ---
 

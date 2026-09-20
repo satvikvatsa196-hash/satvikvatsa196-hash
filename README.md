@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4c1d95,100:0891b2&height=180&text=Satvik%20Vatsa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%7C%20GenAI%2FRAG%20%7C%20Backend&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4c1d95,100:0891b2&height=180&text=Satvik%20Vatsa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20GenAI%2FRAG%20%7C%20Backend&descAlignY=55&descSize=18" />
 
 
 <a href="https://www.linkedin.com/in/satvik-vatsa-64031a287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
